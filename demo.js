@@ -59,4 +59,4 @@ function mimicServerCall() {
       resolve("Pretend remote server notified of action!");
     }, 300);
   });
-}
+}}
